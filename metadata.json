@@ -1,0 +1,6 @@
+{
+  "name": "Campus Cart",
+  "description": "Premium, real-world college shopping and student marketplace for textbooks, electronics, lab equipment, and hostel essentials.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
